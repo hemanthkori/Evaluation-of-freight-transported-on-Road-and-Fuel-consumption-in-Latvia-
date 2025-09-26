@@ -1,56 +1,44 @@
-# Road Freight Transport in Latvia: Analysis of Volume and Fuel Consumption (2014–2023)
+# Road Freight Transport in Latvia: Analysis of Volume & Fuel Consumption (2014–2023)
 
-## 📖 Introduction
-Road freight is one of the major modes of transportation in Latvia, followed by railway.  
-Due to the steady increase in transportation demand, fuel consumption has also risen significantly (Eng.LSM.lv, Latvian Public Broadcasting).  
+This project analyses road freight transport trends in Latvia over a ten‑year period (2014–2023), focusing on freight volume and fuel consumption. By examining official statistics and reports, the study uncovers correlations between freight activity, fuel usage, and broader economic conditions.
 
-This study provides an analysis of **road freight transport in Latvia**, focusing on freight volume and fuel consumption over a 10-year period (2014–2023).  
-The research also considers the **theoretical aspects of freight transport**, including:
-- Historical development of freight transportation  
-- Advantages and disadvantages compared to other modes  
-- EU legal regulations relevant to road freight  
+## Objectives
 
----
+- Collect and organize data on freight transport volume and fuel consumption in Latvia.
+- Identify trends and seasonal patterns in freight movement and energy use.
+- Compare road freight with other transportation modes (rail, maritime) to contextualize findings.
+- Provide data‑driven recommendations for logistics companies and policymakers.
 
-## 📊 Study Description
-The study examines:
-- Road freight volume trends in Latvia (2014–2023)  
-- Fuel consumption patterns and their relationship with freight activity  
-- Variations and changes across the EU context  
+## Data & Methodology
 
-The selected time frame (2014–2023) was chosen as it effectively captures variations, trends, and structural changes in transportation.
+- **Sources:** Central Statistical Bureau of Latvia, Latvian Public Broadcasting reports, EU transport statistics, and academic literature.
+- **Tools:** Spreadsheet analysis (Excel), descriptive statistics, trend analysis, correlation plots, and a narrative report.
+- **Approach:** Historical time series analysis of freight volumes and fuel consumption, supplemented by qualitative insights on regulatory and infrastructural factors.
 
----
+## Key Insights
 
-## 🧮 Methodology
-Mathematical and statistical methods were applied to the gathered data:
-- **Averages**  
-- **Relative values**
-- **Regression Analysis** 
-- **Calculation and comparison**  
-- **Correlation analysis**  
-- **Grouping methods**  
+- Road freight demand in Latvia increased steadily from 2014‑2019, followed by fluctuations due to pandemic‑related disruptions.
+- Fuel consumption mirrored freight volume trends but exhibited sharper peaks, indicating variations in fuel efficiency and routing.
+- Comparisons with rail transport highlight opportunities for modal shift to reduce emissions and congestion.
+- EU regulatory changes and infrastructure investments significantly influence freight patterns and fuel usage.
 
-These approaches ensure that the study is both comprehensive and methodologically sound.
+## Deliverables
 
----
+- **Report:** [`RA3.docx`](./RA3.docx) – a narrative document outlining the analysis, data tables, charts, and recommendations.
+- **Presentation:** `Evaluation Road Freight Transport and fuel ...` – a slide deck summarising the study for stakeholder presentations.
+- **Documentation:** `README.md` (this file) – overview of the project, methods, insights, and skills demonstrated.
 
-## 🛠️ Skills Learned
-Through this project, the following skills were strengthened:
-- **Data analysis & interpretation** (time-series analysis, identifying trends)  
-- **Statistical methods** (averages, correlation, grouping techniques)  
-- **Research methodology** (working with secondary data from public sources)  
-- **Domain knowledge** in transportation systems and EU regulations  
-- **Communication** — presenting findings in structured written and visual formats  
+## Skills Demonstrated
+
+- **Data Collection & Cleaning:** Sourcing and organizing multi‑year transport and fuel datasets.
+- **Trend Analysis:** Applying time series techniques to identify patterns and anomalies.
+- **Comparative Evaluation:** Assessing road freight against other transport modes and contextual factors.
+- **Report Writing:** Communicating technical findings in an accessible format for both technical and non‑technical audiences.
+
+## How to Use
+
+This repository serves as a portfolio piece illustrating my ability to conduct end‑to‑end transport analytics. Review the report and presentation to see the full analysis and conclusions. Feel free to adapt the methodology for similar studies in other countries or sectors.
 
 ---
 
-## 📂 Files in Repository
-- `Latvia_RoadFreight_2014_2023.pptx` → Presentation slides summarizing the study  
-
-
----
-
-## 📌 Citation
-Source: [Eng.LSM.lv, Latvian Public Broadcasting]  
-Period analyzed: **2014–2023**
+*Created as part of a data analytics portfolio showcasing real‑world insights from transport datasets.*
